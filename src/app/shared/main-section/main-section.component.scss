@@ -5,10 +5,16 @@ section {
   justify-content: center;
 }
 
+.menu {
+  
+}
+
 @media(min-width: 1080px) {
   section{
     flex-direction: row;
     justify-content: space-between;
   }
+
+
 
 }
